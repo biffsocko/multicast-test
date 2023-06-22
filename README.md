@@ -1,5 +1,8 @@
 # multicast-test
 
+
+# primer on multicast
+
 Multicast is a networking technology that enables the efficient distribution of network packets to multiple recipients simultaneously. In a multicast communication model, a single sender can transmit data to a group of recipients who have expressed interest in receiving the data. Unlike unicast (one-to-one) communication where a separate copy of the data is sent to each recipient, multicast allows for the transmission of a single copy of the data that is shared among the recipients.
 
 Here are some key characteristics and concepts related to multicast:
