@@ -18,7 +18,6 @@
 import socket
 import struct
 import os
-import datetime
 import sys
 
 BYTES=10240
